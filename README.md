@@ -38,3 +38,8 @@ Follow these steps to set up and run the CodeGenAI application on your local mac
 3. Generate code: Click "Generate" to produce a functional code snippet based on the provided task and language.
 4. Review and use the code: The generated code will be displayed with syntax highlighting, ready for you to review and use.
 
+## Demo
+
+## Screenshot
+
+![2024-07-21](https://github.com/user-attachments/assets/e056f213-6469-4fd5-8c40-d31a5d8a08a5)
