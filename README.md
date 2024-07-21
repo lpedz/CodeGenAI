@@ -31,7 +31,7 @@ Follow these steps to set up and run the CodeGenAI application on your local mac
    ```bash
    streamlit run app.py
    
-##Usage
+## Usage
 
 1. Enter the task description: Use the text area to describe the task for which you need a code snippet.
 2. Select the programming language: Choose from the dropdown menu to specify the language.
