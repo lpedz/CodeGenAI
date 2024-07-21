@@ -44,4 +44,4 @@ https://github.com/user-attachments/assets/2e04c81e-5bfd-4e66-8d0d-59871001a7ae
 
 ## Screenshot
 
-![2024-07-21](https://github.com/user-attachments/assets/e056f213-6469-4fd5-8c40-d31a5d8a08a5)
+![2024-07-21 (1)](https://github.com/user-attachments/assets/5a53a213-3910-455e-9e6f-9f3e156881df)
