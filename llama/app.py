@@ -3,7 +3,7 @@ import os
 import streamlit as st
 
 
-apikey="AIzaSyCqO6PIgY80nLSW1iJyI4BvCe2PflVsloY"
+apikey="[your api key]"
 
 genai.configure(api_key=apikey)
 
@@ -15,7 +15,7 @@ def generate(text,style):
     return response.text
 
 st.set_page_config(
-    page_title="Generate Code Snippets",
+    page_title="Generate Story",
     page_icon='🤖',
     layout='centered',
     initial_sidebar_state='collapsed'
