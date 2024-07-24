@@ -1,12 +1,12 @@
 # CodeGenAI
 
-**CodeGenAI** is a cutting-edge web application that generates code snippets using the LLaMA-2 model, integrated with LangChain. It offers a user-friendly interface through Streamlit, enabling developers and learners to quickly produce code based on natural language descriptions across various programming languages.
+**CodeGenAI** is a cutting-edge web application that generates code snippets using the Gemini model, integrated with LangChain. It offers a user-friendly interface through Streamlit, enabling developers and learners to quickly produce code based on natural language descriptions across various programming languages.
 
 ## Features
 
 - **Multi-Language Support**: Generate code snippets in languages such as Python, JavaScript, Java, and C++.
 - **Interactive UI**: Use a simple and intuitive interface built with Streamlit.
-- **High-Quality Code Generation**: Leverage the LLaMA-2 model for accurate, context-aware code output.
+- **High-Quality Code Generation**: Leverage the Gemini for accurate, context-aware code output.
 - **Open Source**: Licensed under the MIT License, allowing for community contributions and modifications.
 
 ## Installation
